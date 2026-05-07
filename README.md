@@ -1,4 +1,4 @@
-# Networking-Layers
+# Seven Layers of OSI Model
 There Are 7 types of Networking Layer
 7. Application Layer
 6. Presentation Layer
