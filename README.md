@@ -6,3 +6,4 @@ There Are 7 types of Networking Layer
 4. Transport Layer
 3. Network Layer
 2. DATA LINK Layer
+Physical Layer 
