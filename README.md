@@ -1,4 +1,4 @@
-# Seven Layers of OSI Model  
+# Seven Layers of OSI Models
 
 There Are 7 types of Networking Layers :
 
